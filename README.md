@@ -2,7 +2,7 @@
 
 ## 🏢 About This Account
 
-This is the official GitHub profile for our web development and administration team at [Mopec](https://www.mopec.com) / [Mortech Manufacturing](https://www.mortechmfg.com).  
+This is the GitHub profile attatched to our web development and administration team at [Mopec](https://www.mopec.com) / [Mortech Manufacturing](https://www.mortechmfg.com).  
 We build, maintain, and innovate digital solutions for our company and partners.
 
 ---
